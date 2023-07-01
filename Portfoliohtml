@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="./Resources Portfolio/stylesheet.css" rel="stylesheet" type="text/css">
+        <link href="./Resources Portfolio/PortfolioJS.js" rel="js" type="js">
+        <title>CourtneyLac Portfolio</title>
+    </head>
+        
+    <body>
+        <div class="banner">
+            <div class="nav">
+                <ul>
+                    <li><a href="" id="Home">Home</a></li>
+                    <li><a href="" id="Projects">Projects</a></li>
+                    <li><a href="" id="About">About</a></li>
+                    <li><a href="" id="Blog">Blog</a></li>
+                    <li><a href="" id="Contact">Contact</a></li>
+                </ul>
+            </div>
+
+            
+           
+
+          <main>
+            <h1 class="Greeting"><strong>Hey, I'm Courtney</strong></h1>
+            <h2 class="Greeting2">Frontend web developer</h2>
+            <h3 class="Pitch">Creating exciting, beautiful and clean webpages for an engaging digital experience. I'm excited to work with your ideas all the way to the finished professional product.</h3>
+
+
+          </main>
+        </div>
+    </body>
+</html>
